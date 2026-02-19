@@ -57,13 +57,7 @@
   <img src="https://streak-stats.demolab.com?user=sadeepaghost&theme=radical" />
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/sadeepaghost/sadeepaghost/blob/output/github-contribution-grid-snake.svg)
-
----
+]
 
 ## 🌐 Connect With Me
 
