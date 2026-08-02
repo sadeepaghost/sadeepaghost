@@ -49,7 +49,7 @@
 ### Frontend & Mobile
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,tailwind,html,css,alpinejs,vite&theme=dark" alt="React, Flutter, Tailwind CSS, HTML, CSS, Alpine.js, and Vite" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,tailwind,html,css,vite&theme=dark" alt="React, Flutter, Tailwind CSS, HTML, CSS and Vite" />
 </p>
 
 ### Backend & Databases
