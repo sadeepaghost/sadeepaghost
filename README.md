@@ -1,81 +1,48 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Sadeepa Amaranayake</h1>
-<h3 align="center">🚀 Full Stack Developer | ⛓️ Blockchain Engineer | ⚙️ DevOps Enthusiast</h3>
+# Hi, I'm Sadeepa Amaranayake 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=600&lines=Building+Web3+Applications;Flutter+Developer;Smart+Contract+Engineer;DevOps+Learner;Future+Blockchain+Architect" />
-</p>
+### Full-Stack Developer | Laravel & Livewire Enthusiast
 
----
+I build practical, user-focused web applications with clean interfaces and dependable backends. My current work focuses on modern PHP development, interactive Laravel applications, and technology that solves real business problems.
 
-## 👨‍💻 About Me
+- 🔭 Currently building **SadeepaElectronics IC Marketplace**
+- 🌱 Improving my skills in **Laravel, Livewire, APIs, and scalable application design**
+- 💡 Interested in **full-stack development, AI-assisted applications, and electronic-component technology**
+- 🤝 Open to collaborating on useful web applications and open-source projects
+- 📍 Based in Sri Lanka
 
-- 🔭 Currently building **Full Stack & Web3 applications**
-- 🌱 Learning **Blockchain Architecture, DevOps & AI integration**
-- 🧠 Strong foundation in **OOP, Algorithms & Mathematics**
-- 📱 Developing a **Food Surplus Redistribution App (Flutter)**
-- 🎯 Goal: Become a **Blockchain Architect / Web3 Engineer**
-- 🎸 Fun fact: I enjoy music & creativity alongside coding
+## Featured Project
 
----
+### [SadeepaElectronics IC Marketplace](https://github.com/sadeepaghost/IC-Marketplace-)
 
-## 🚀 Tech Stack
+An AI-assisted marketplace that helps engineers and procurement teams search, compare, and source integrated circuits and other electronic components.
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+**Highlights:** real-time inventory search, technical specifications, alternative-part suggestions, sourcing requests, background processing, and email notifications.
 
-### 🌐 Frontend & Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## Technologies I Work With
 
-### 🔧 Backend & Databases
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### ⛓️ Blockchain & Web3
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FCC624?style=for-the-badge&logo=ethereum&logoColor=black)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+## GitHub Activity
 
-### ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Sadeepa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadeepaghost&show_icons=true&hide_border=true&theme=transparent)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadeepaghost&layout=compact&hide_border=true&theme=transparent)
+
+## Let's Connect
+
+I'm always happy to connect with other developers, exchange ideas, and explore opportunities to build useful products.
+
+<!-- Add your real links below, then remove this comment. -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadeepaghost&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=sadeepaghost&theme=radical" />
-</p>
-
-]
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sadeepa-amaranayake-7803a9292/)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:sadeepaamaranayake@gmail.com)
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Deploy a Production-Level Web3 DApp
-- ✅ Contribute to Open Source Blockchain Projects
-- ✅ Master CI/CD with Docker & GitHub Actions
-- ✅ Publish Technical Articles on Blockchain & DevOps
-- ✅ Secure a Web3 / Blockchain Engineering Role
-
----
-
-<p align="center">
-  ⚡ “Code. Deploy. Decentralize. Repeat.”
-</p>
+<p align="center">Building useful software, one project at a time.</p>
