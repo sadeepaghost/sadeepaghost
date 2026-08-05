@@ -1,0 +1,92 @@
+name: Update profile contribution cards
+
+on:
+  schedule:
+    - cron: "15 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-cards.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: sadeepaghost
+          BRANCH_NAME: main
+          UTC_OFFSET: 5.5
+          AUTO_PUSH: false
+
+      - name: Generate total contributions card
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require("fs");
+
+            const login = "sadeepaghost";
+            const yearsResult = await github.graphql(`
+              query($login: String!) {
+                user(login: $login) {
+                  contributionsCollection {
+                    contributionYears
+                  }
+                }
+              }
+            `, { login });
+
+            const years = yearsResult.user.contributionsCollection.contributionYears;
+            let total = 0;
+
+            for (const year of years) {
+              const from = `${year}-01-01T00:00:00Z`;
+              const to = `${year}-12-31T23:59:59Z`;
+              const result = await github.graphql(`
+                query($login: String!, $from: DateTime!, $to: DateTime!) {
+                  user(login: $login) {
+                    contributionsCollection(from: $from, to: $to) {
+                      contributionCalendar {
+                        totalContributions
+                      }
+                    }
+                  }
+                }
+              `, { login, from, to });
+
+              total += result.user.contributionsCollection.contributionCalendar.totalContributions;
+            }
+
+            const number = total.toLocaleString("en-US");
+            const svg = `
+              <svg xmlns="http://www.w3.org/2000/svg" width="700" height="180" role="img" aria-label="${number} total contributions">
+                <rect width="700" height="180" rx="12" fill="#0d1117" stroke="#30363d"/>
+                <text x="350" y="62" text-anchor="middle" fill="#58a6ff" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="600">Total GitHub Contributions</text>
+                <text x="350" y="125" text-anchor="middle" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="700">${number}</text>
+                <text x="350" y="153" text-anchor="middle" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="14">Across ${years.length} contribution year${years.length === 1 ? "" : "s"}</text>
+              </svg>
+            `.replace(/^\s{14}/gm, "").trim();
+
+            fs.mkdirSync("assets", { recursive: true });
+            fs.writeFileSync("assets/total-contributions.svg", svg);
+
+      - name: Commit generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/total-contributions.svg profile-summary-card-output
+          git diff --cached --quiet || git commit -m "chore: update profile contribution cards"
+          git push
