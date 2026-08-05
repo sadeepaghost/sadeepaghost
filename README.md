@@ -85,8 +85,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sadeepaghost&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
-    alt="Complete GitHub statistics"
+    src="https://github-stats-extended.vercel.app/api?username=Sadeepa_Amaranayake&show_icons=true&include_all_commits=true&number_format=long&theme=tokyonight&hide_border=true"
+    alt="Sadeepa Amaranayake's complete GitHub statistics"
   />
 </p>
 <p align="center">
