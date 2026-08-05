@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sadeepa Amaranayake 👋</h1>
+<h1 align="center">I'm Sadeepa Amaranayake</h1>
 
 <h3 align="center">Full-Stack Developer</h3>
 
@@ -80,13 +80,13 @@
 <h3 align="center">🔥 Total Contributions</h3>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=sadeepaghost&theme=github-dark-blue&hide_border=true" alt="Sadeepa's total GitHub contributions, current streak, and longest streak" />
+  <img width="70%" src="./assets/total-contributions.svg" alt="Sadeepa's total GitHub contributions" />
 </p>
 
 ## 📈 GitHub Contribution Overview
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadeepaghost&theme=github_dark" alt="Sadeepa's GitHub contribution overview" />
+  <img width="100%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sadeepa's GitHub contribution overview" />
 </p>
 
 ## 🌐 Connect With Me
