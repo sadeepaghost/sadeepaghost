@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sadeepa Amaranayake 👋</h1>
 
-<h3 align="center">Full-Stack Developer · Blockchain Engineer · DevOps Enthusiast</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=760&lines=Building+useful+full-stack+applications;Exploring+Web3%2C+DevOps%2C+and+AI;Turning+ideas+into+reliable+software" alt="Typing introduction" />
@@ -81,6 +81,20 @@
   <img width="70%" src="https://streak-stats.demolab.com?user=sadeepaghost&theme=github-dark-blue&hide_border=true" alt="Sadeepa's GitHub contribution streak" />
 </p>
 
+<h3 align="center">📊 Complete GitHub History</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sadeepaghost&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+    alt="Complete GitHub statistics"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sadeepaghost&theme=tokyo-night&hide_border=true"
+    alt="GitHub contribution history"
+  />
+</p>
 ## 📈 Contribution Graph
 
 <p align="center">
