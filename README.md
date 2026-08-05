@@ -29,13 +29,13 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/sadeepaghost/IC-Marketplace-"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sadeepaghost&repo=IC-Marketplace-&theme=github_dark&hide_border=true" alt="IC Marketplace repository" /></a>
-  <a href="https://github.com/sadeepaghost/chat-application"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sadeepaghost&repo=chat-application&theme=github_dark&hide_border=true" alt="Chat application repository" /></a>
+  <a href="https://github.com/sadeepaghost/IC-Marketplace-"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=sadeepaghost&repo=IC-Marketplace-&theme=github_dark&hide_border=true" alt="IC Marketplace repository" /></a>
+  <a href="https://github.com/sadeepaghost/chat-application"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=sadeepaghost&repo=chat-application&theme=github_dark&hide_border=true" alt="Chat application repository" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/sadeepaghost/smart-study-buddy"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sadeepaghost&repo=smart-study-buddy&theme=github_dark&hide_border=true" alt="Smart Study Buddy repository" /></a>
-  <a href="https://github.com/sadeepaghost/my_portfolio"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sadeepaghost&repo=my_portfolio&theme=github_dark&hide_border=true" alt="Portfolio repository" /></a>
+  <a href="https://github.com/sadeepaghost/smart-study-buddy"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=sadeepaghost&repo=smart-study-buddy&theme=github_dark&hide_border=true" alt="Smart Study Buddy repository" /></a>
+  <a href="https://github.com/sadeepaghost/my_portfolio"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=sadeepaghost&repo=my_portfolio&theme=github_dark&hide_border=true" alt="Portfolio repository" /></a>
 </p>
 
 ## 💻 Technology Stack
@@ -73,32 +73,18 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sadeepaghost&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Sadeepa's GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sadeepaghost&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Sadeepa's most-used languages" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=sadeepaghost&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&number_format=long" alt="Sadeepa's complete GitHub statistics" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sadeepaghost&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Sadeepa's most-used languages" />
 </p>
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=sadeepaghost&theme=github-dark-blue&hide_border=true" alt="Sadeepa's GitHub contribution streak" />
 </p>
 
-<h3 align="center">📊 Complete GitHub History</h3>
+## 📈 Complete Contribution History
 
 <p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=Sadeepa_Amaranayake&show_icons=true&include_all_commits=true&number_format=long&theme=tokyonight&hide_border=true"
-    alt="Sadeepa Amaranayake's complete GitHub statistics"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sadeepaghost&theme=tokyo-night&hide_border=true"
-    alt="GitHub contribution history"
-  />
-</p>
-## 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sadeepaghost&theme=github-compact&hide_border=true&area=true" alt="Sadeepa's contribution graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sadeepaghost&theme=github-compact&hide_border=true&area=true" alt="Sadeepa's contribution history" />
 </p>
 
 ## 🌐 Connect With Me
