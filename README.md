@@ -77,14 +77,16 @@
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sadeepaghost&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Sadeepa's most-used languages" />
 </p>
 
+<h3 align="center">🔥 Total Contributions</h3>
+
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=sadeepaghost&theme=github-dark-blue&hide_border=true" alt="Sadeepa's GitHub contribution streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=sadeepaghost&theme=github-dark-blue&hide_border=true" alt="Sadeepa's total GitHub contributions, current streak, and longest streak" />
 </p>
 
-## 📈 Complete Contribution History
+## 📈 GitHub Contribution Overview
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sadeepaghost&theme=github-compact&hide_border=true&area=true" alt="Sadeepa's contribution history" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadeepaghost&theme=github_dark" alt="Sadeepa's GitHub contribution overview" />
 </p>
 
 ## 🌐 Connect With Me
